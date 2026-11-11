@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I am Piyush Azad
+I'm  Currently pursuing Btech in CSE 
 
 <!--
 **piyushazad231-svg/piyushazad231-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
